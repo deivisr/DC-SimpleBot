@@ -19,7 +19,7 @@ require('dotenv').config();
 client.on('ready', () => {
         console.log('Logged in as $(client.user.tag)')
 
-client.user.setActivity('Zyyz', {
+client.user.setActivity('Zyzz-The God', {
     type:ActivityType.Listening
 })
 })
